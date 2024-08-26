@@ -31,6 +31,7 @@ https://www.kaggle.com/code/beyzanks/waste-classification-with-cnn/input
 
 
 Repalce this path place for H5 model data set
-
+Download h5 model dataset " https://www.kaggle.com/datasets/pawanrdeveops/h5-model "
 
 model_dir = "D:\WASTE CLASSIFICATION\dataset\DATASET\DATASET"
+
