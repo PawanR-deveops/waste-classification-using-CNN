@@ -24,14 +24,12 @@ python main.py
 
 ---
 
-dataset download in kaggle 
-
-https://www.kaggle.com/code/beyzanks/waste-classification-with-cnn/input
-
-
+dataset download in kaggle 👇
+https://www.kaggle.com/datasets/techsash/waste-classification-data
 
 Repalce this path place for H5 model data set
-Download h5 model dataset " https://www.kaggle.com/datasets/pawanrdeveops/h5-model "
+Download h5 model dataset 👇
+https://www.kaggle.com/datasets/pawanrdeveops/h5-model/data
 
 model_dir = "D:\WASTE CLASSIFICATION\dataset\DATASET\DATASET"
 
